@@ -6,11 +6,11 @@ git init
 
 git remote add origin (repository url)
 
-git pull origin main ..
+git pull origin master ..
 
 
 # push(adding) file
 
 git add .
 git commit -m "(messages)"
-git push origin main 
+git push origin master
